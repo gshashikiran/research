@@ -1,4 +1,4 @@
-# Allan Lab Website
+# Website for Shashikiran Ganesh's research team at the PRL
 
 This is the website of our academic research group at Leiden University.
 
